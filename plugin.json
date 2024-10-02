@@ -1,6 +1,6 @@
 {
-  "id": "acode.plugin.generate_code",
-  "name": "Generate Code",
+  "id": "html editor",
+  "name": "editor html",
   "main": "dist/main.js",
   "version": "1.0.2",
   "readme": "readme.md",
@@ -11,8 +11,8 @@
   "minVersionCode" : 290,
   "price": 0,
   "author": {
-    "name": "Diki Djatar",
-    "email": "dikidjatar@gmail.com",
-    "github": "dikidjatar"
+    "name": "subh",
+    "email": "xarab8@skrak.com",
+    "github": "0zero4u"
   }
 }
