@@ -1,5 +1,5 @@
 {
-  "name": "acode-plugin",
+  "name": "editor html",
   "version": "1.0.2",
   "description": "Template for Acode plugin",
   "main": "dist/main.js",
